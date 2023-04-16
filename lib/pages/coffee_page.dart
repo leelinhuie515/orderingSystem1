@@ -46,8 +46,6 @@ class _coffeePageState extends State<coffeePage> {
                     return CoffeeTitle(coffee: eachCoffee, onPressed: () {  },
 
                     );
-
-
                   },
                 ),
               ),

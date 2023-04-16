@@ -16,7 +16,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   List<Widget> myTabs = [
     MyTab(
-      iconPath: 'lib/icons/burger.png',
+      iconPath: 'lib/icons/coffee.png',
     ),
     MyTab(
       iconPath: 'lib/icons/smoothie.png',
